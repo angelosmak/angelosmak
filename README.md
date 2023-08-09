@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelos</h1>
 <h3 align="center">A passionate full stack developer from Greece!</h3>
 
-- 🔭 I’m currently working on [MeetApp](https://github.com/angelosmak/meetapp)
+- 🔭 I’m currently working on [WaveShare](https://github.com/angelosmak/waveshare)
 
 - 🌱 I’m currently learning **Javascript**
 
